@@ -1,0 +1,9 @@
+{
+    "require": {
+        "laracasts/utilities": "^3.2",
+ 	"setasign/fpdf": "1.8.*",
+        "setasign/fpdi": "^2.0",
+        "clegginabox/pdf-merger": "dev-master",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
